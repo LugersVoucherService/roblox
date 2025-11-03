@@ -48,5 +48,55 @@
       "note": null,
       "timestamp": "2025-11-03T01:04:41Z"
     }
+  },
+  "X9VH28MDAM47": {
+    "id": "X9VH28MDAM47",
+    "status": "rejected",
+    "createdAt": "2025-11-03T01:11:32Z",
+    "updatedAt": "2025-11-03T01:13:41Z",
+    "name": "Vibranium-E",
+    "creator": "userName",
+    "description": "What happens after you submit\r\nYour file gets scanned for malware automatically\r\nMods review your build on Discord (usually within 24 hours)\r\nOnce approved, your build goes live in the library\r\nYou'll get a submission ID to track your build's status\r\nNeed help? Hit us up in Discord with your submission ID and we'll help you out.",
+    "category": "military",
+    "subcategory": "base",
+    "notes": null,
+    "buildFile": {
+      "filename": "X9VH28MDAM47.build",
+      "path": "uploads/pending/X9VH28MDAM47/X9VH28MDAM47.build",
+      "download_url": "https://raw.githubusercontent.com/LugersVoucherService/roblox/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47.build",
+      "html_url": "https://github.com/LugersVoucherService/roblox/blob/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47.build"
+    },
+    "image": {
+      "filename": "X9VH28MDAM47_Preview.png",
+      "path": "uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png",
+      "download_url": "https://raw.githubusercontent.com/LugersVoucherService/roblox/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png",
+      "html_url": "https://github.com/LugersVoucherService/roblox/blob/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png"
+    },
+    "thumbnail": {
+      "filename": "X9VH28MDAM47_Preview.png",
+      "path": "uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png",
+      "download_url": "https://raw.githubusercontent.com/LugersVoucherService/roblox/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png",
+      "html_url": "https://github.com/LugersVoucherService/roblox/blob/main/uploads/pending/X9VH28MDAM47/X9VH28MDAM47_Preview.png"
+    },
+    "history": [
+      {
+        "status": "rejected",
+        "moderator": "API",
+        "note": null,
+        "timestamp": "2025-11-03T01:13:41Z"
+      }
+    ],
+    "clientInfo": {
+      "ip": "172.59.190.84",
+      "fingerprint": "8815e9e2f0b72f1d",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    },
+    "reviewMessageId": "1434711564056793266",
+    "decision": {
+      "status": "rejected",
+      "moderator": "API",
+      "note": null,
+      "timestamp": "2025-11-03T01:13:41Z"
+    }
   }
 }
